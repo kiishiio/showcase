@@ -1,0 +1,9 @@
+* {
+    scrollbar-width: none;
+    transition: all .1s ease;
+}
+
+*::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+}
